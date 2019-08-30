@@ -23,3 +23,6 @@
 - Fetch
 
 1. Atualizando o repositório (print_08)
+
+- Finalizacao
+Todos os prints adicionados no repositorio (print_09)
