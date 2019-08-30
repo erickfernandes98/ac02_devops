@@ -22,4 +22,4 @@
 
 - Fetch
 
-1.
+1. Atualizando o repositório (print_08)
